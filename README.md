@@ -23,7 +23,7 @@ I'm a Java Developer with a passion for building efficient and scalable backend 
 <br/>  
 
 
-## Rapidfire  
+## About me  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on []()  
@@ -93,4 +93,3 @@ I'm a Java Developer with a passion for building efficient and scalable backend 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
